@@ -19,15 +19,15 @@ class CardGame:
   #the CardGame model properties are not defined ex. card, card2
 
   def check_for_ace(self, card):
-    if card.value = 1:
+    if card.value = 1: #one equal sign is missing
       return True
-    else
+    else #there is not collon after else
       return False
    
 
   dif highest_card(self, card1 card2): #dif instead of def # there is no comma between the two parameters
   if card1.value > card2.value: #the if statement should be indented
-    return card
+    return card #1 is missing
   else:
     return card2
   
